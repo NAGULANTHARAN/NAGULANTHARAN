@@ -2,7 +2,9 @@
 👋 Hi there! I'm NAGULANTHARAN, a passionate MERN stack developer from Coimbatore, India. I specialize in building full-stack applications and love tackling challenges through code. In my spare time, you can find me working on open-source projects. 🚀
 
 📋 Tech Stack & Tools:
+
 Languages:
+
 JavaScript
 
 Java
@@ -12,6 +14,7 @@ Python
 C
 
 Frontend:
+
 React.js
 
 Bootstrap
@@ -21,16 +24,19 @@ CSS3
 HTML5
 
 Backend:
+
 Node.js
 
 Express.js
 
 Databases:
+
 MongoDB
 
 MySQL
 
 Other Tools:
+
 Git
 
 GitHub
@@ -42,9 +48,11 @@ Figma
 Canva
 
 Operating System:
+
 🐧 Linux (Favorite OS for Development)
 
 🌟 Highlighted Projects:
+
 Here are some of my notable projects:
 
 Portfolio: A personal portfolio website showcasing my skills and projects. ​
