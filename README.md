@@ -1,5 +1,5 @@
 💫 About Me:
-👋 Hi, I'm Nagulan Tharan, a passionate MERN stack developer from Coimbatore, India. I love building full-stack applications and solving challenging problems through code. When I'm not coding, I enjoy contributing to open-source projects and exploring new technologies. 🚀
+👋 Hi there! I'm NAGULANTHARAN, a passionate MERN stack developer from Coimbatore, India. I specialize in building full-stack applications and love tackling challenges through code. In my spare time, you can find me working on open-source projects. 🚀
 
 📋 Tech Stack & Tools:
 Languages:
@@ -42,34 +42,37 @@ Figma
 Canva
 
 Operating System:
-🐧 Linux (My favorite OS for development)
+🐧 Linux (Favorite OS for Development)
 
 🌟 Highlighted Projects:
-🎓 LearnHub
-A platform designed to help users enhance their skills with tutorials, quizzes, and more.
+Here are some of my notable projects:
 
-✅ todoApp
-A simple, interactive React-based Todo app to manage tasks efficiently.
+Portfolio: A personal portfolio website showcasing my skills and projects. ​
+GitHub
 
-🎮 TicTacToe-React
-An interactive and fun TicTacToe game built using React.js.
+Library Management System: A system designed to manage library resources and operations efficiently. ​
+GitHub
 
-🌐 PersonalPortfolio
-My personal portfolio that showcases my work, skills, and experiences.
+LeetCode Solutions: A repository containing my solutions to various LeetCode problems. ​
+GitHub
+
+MERN Project: A full-stack project utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack. ​
+GitHub
+
+Stopwatch Web Application: A simple web-based stopwatch application. ​
+GitHub
 
 📈 GitHub Stats:
 
 📫 Get in Touch:
-📧 Email: nagulan.tharan@gmail.com
+📧 Email: nagulantharan26@gmail.com
 
-💼 LinkedIn: Nagulan Tharan
+💼 LinkedIn: NAGULANTHARAN
 
-💻 LeetCode: NagulanTharan
+💻 LeetCode: nagulantharan26
 
 💬 Let's Collaborate:
-If you’re looking for a MERN stack developer or just want to chat about technology, feel free to reach out! Let’s create something awesome together. 🚀
+If you're looking for a MERN stack developer or want to discuss technology, feel free to reach out! Let's build something great together. 🚀
 
 ⚡ Fun Fact:
-I'm always learning new things and refining my coding workflow. Currently, I’m diving deep into DevOps and Data Structures & Algorithms (DSA)! ☁
-
-
+I'm constantly learning new things and optimizing my coding workflows. My current focus is on DevOps and Data Structures & Algorithms (DSA)! ☁
