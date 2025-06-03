@@ -1,86 +1,73 @@
-💫 About Me:
-👋 Hi there! I'm NAGULANTHARAN, a passionate MERN stack developer from Coimbatore, India. I specialize in building full-stack applications and love tackling challenges through code. In my spare time, you can find me working on open-source projects. 🚀
+💫 About Me
+👋 Hey there! I’m Nagulantharan, a highly motivated Full-Stack MERN Developer from Coimbatore, India, with a strong passion for building scalable web applications and solving complex problems through code.
 
-📋 Tech Stack & Tools:
+I bring ideas to life using the MERN stack (MongoDB, Express.js, React.js, Node.js) and thrive in dynamic environments where learning never stops. Whether it's front-end interfaces or back-end APIs, I enjoy crafting clean, efficient, and user-friendly solutions. I’m also deeply interested in exploring the intersection of software engineering with DevOps and Data Structures & Algorithms, where performance and scalability meet thoughtful design.
 
-Languages:
+When I’m not coding, you’ll find me:
 
-JavaScript
+🔧 Experimenting with new technologies,
 
-Java
+🤝 Contributing to open-source projects,
 
-Python
+🧠 Solving algorithmic challenges on LeetCode,
 
-C
+☁️ Learning about cloud infrastructure and deployment practices.
 
-Frontend:
+🔧 Tech Stack & Tools
+💻 Languages:
+JavaScript, Java, Python, C
 
-React.js
+🌐 Front-End:
+React.js, Bootstrap, CSS3, HTML5
 
-Bootstrap
+🛠 Back-End:
+Node.js, Express.js
 
-CSS3
+🗄 Databases:
+MongoDB, MySQL
 
-HTML5
+🔧 Tools & Platforms:
+Git, GitHub, Postman, Figma, Canva
 
-Backend:
+💻 Development OS:
+🐧 Linux — My go-to environment for productivity and coding
 
-Node.js
+🚀 Featured Projects
+Here are a few meaningful projects I’ve worked on:
 
-Express.js
+🧑‍💼 Portfolio Website
+A clean and responsive site to showcase my skills, achievements, and ongoing work.
 
-Databases:
+📚 Library Management System
+A robust solution to manage book inventories, issue/return flows, and user records for libraries.
 
-MongoDB
+🔢 LeetCode Solutions
+My personal coding journal—documenting optimal solutions to algorithmic challenges from LeetCode.
 
-MySQL
+🧩 MERN Stack Project
+A full-fledged application built with the MERN stack, demonstrating REST APIs, authentication, and front-end state management.
 
-Other Tools:
+⏱ Stopwatch Web App
+A minimalistic stopwatch app built using plain JavaScript and styled for a smooth UX.
 
-Git
+(Let me know if you’d like to link these to actual GitHub repos)
 
-GitHub
+📊 GitHub Stats
+(Optional section: You can embed GitHub ReadMe stats using markdown badges here, e.g. commits, streaks, top languages, etc.)
 
-Postman
-
-Figma
-
-Canva
-
-Operating System:
-
-🐧 Linux (Favorite OS for Development)
-
-🌟 Highlighted Projects:
-
-Here are some of my notable projects:
-
-Portfolio: A personal portfolio website showcasing my skills and projects. ​
-GitHub
-
-Library Management System: A system designed to manage library resources and operations efficiently. ​
-GitHub
-
-LeetCode Solutions: A repository containing my solutions to various LeetCode problems. ​
-GitHub
-
-MERN Project: A full-stack project utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack. ​
-GitHub
-
-Stopwatch Web Application: A simple web-based stopwatch application. ​
-GitHub
-
-📈 GitHub Stats:
-
-📫 Get in Touch:
+📬 Connect With Me
 📧 Email: nagulantharan26@gmail.com
-
-💼 LinkedIn: NAGULANTHARAN
-
+💼 LinkedIn: Nagulantharan
 💻 LeetCode: nagulantharan26
 
-💬 Let's Collaborate:
-If you're looking for a MERN stack developer or want to discuss technology, feel free to reach out! Let's build something great together. 🚀
+🤝 Let's Build Together
+If you're looking to collaborate on exciting projects, brainstorm innovative ideas, or just talk tech — I'm always open to conversations. Let’s connect and build something meaningful together! ✨
 
-⚡ Fun Fact:
-I'm constantly learning new things and optimizing my coding workflows. My current focus is on DevOps and Data Structures & Algorithms (DSA)! ☁
+⚡ Quick Facts
+🌱 Always learning and leveling up my skill set
+
+☁ Currently diving into DevOps & Cloud Fundamentals
+
+📚 Sharpening problem-solving with DSA
+
+💬 Favorite quote: "Code is like humor. When you have to explain it, it’s bad." – Cory House
