@@ -1,73 +1,97 @@
-💫 About Me
-👋 Hey there! I’m Nagulantharan, a highly motivated Full-Stack MERN Developer from Coimbatore, India, with a strong passion for building scalable web applications and solving complex problems through code.
+# Hi, I'm Nagulantharan 👋
 
-I bring ideas to life using the MERN stack (MongoDB, Express.js, React.js, Node.js) and thrive in dynamic environments where learning never stops. Whether it's front-end interfaces or back-end APIs, I enjoy crafting clean, efficient, and user-friendly solutions. I’m also deeply interested in exploring the intersection of software engineering with DevOps and Data Structures & Algorithms, where performance and scalability meet thoughtful design.
+**Full-Stack MERN Developer | Problem Solver | Tech Enthusiast**
 
-When I’m not coding, you’ll find me:
+Building scalable web applications with clean architecture, efficient APIs, and modern UI experiences.  
+Passionate about full-stack development, DevOps fundamentals, and data structures.
 
-🔧 Experimenting with new technologies,
+📍 Coimbatore, India  
 
-🤝 Contributing to open-source projects,
+---
 
-🧠 Solving algorithmic challenges on LeetCode,
+## What I Do
 
-☁️ Learning about cloud infrastructure and deployment practices.
+- Build **full-stack web applications** using the MERN stack  
+- Design and develop **RESTful APIs**  
+- Solve **algorithmic problems** and improve problem-solving skills  
+- Explore **DevOps & Cloud fundamentals**  
+- Contribute to **open-source projects**
 
-🔧 Tech Stack & Tools
-💻 Languages:
-JavaScript, Java, Python, C
+---
 
-🌐 Front-End:
-React.js, Bootstrap, CSS3, HTML5
+## Tech Stack
 
-🛠 Back-End:
-Node.js, Express.js
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-🗄 Databases:
-MongoDB, MySQL
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-🔧 Tools & Platforms:
-Git, GitHub, Postman, Figma, Canva
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-💻 Development OS:
-🐧 Linux — My go-to environment for productivity and coding
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
 
-🚀 Featured Projects
-Here are a few meaningful projects I’ve worked on:
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-🧑‍💼 Portfolio Website
-A clean and responsive site to showcase my skills, achievements, and ongoing work.
+---
 
-📚 Library Management System
-A robust solution to manage book inventories, issue/return flows, and user records for libraries.
+## Featured Projects
 
-🔢 LeetCode Solutions
-My personal coding journal—documenting optimal solutions to algorithmic challenges from LeetCode.
+### 🌐 Portfolio Website
+A clean and responsive personal portfolio showcasing skills, projects, and achievements.
 
-🧩 MERN Stack Project
-A full-fledged application built with the MERN stack, demonstrating REST APIs, authentication, and front-end state management.
+### 📚 Library Management System
+A robust system to manage book inventory, issue/return workflows, and user records.
 
-⏱ Stopwatch Web App
-A minimalistic stopwatch app built using plain JavaScript and styled for a smooth UX.
+### 🧠 LeetCode Solutions
+A personal coding journal documenting optimized solutions to algorithmic problems.
 
-(Let me know if you’d like to link these to actual GitHub repos)
+### ⚙️ MERN Stack Application
+A full-fledged MERN app with authentication, REST APIs, and front-end state management.
 
-📊 GitHub Stats
-(Optional section: You can embed GitHub ReadMe stats using markdown badges here, e.g. commits, streaks, top languages, etc.)
+### ⏱ Stopwatch Web App
+A minimal JavaScript-based stopwatch with smooth UI interactions.
 
-📬 Connect With Me
-📧 Email: nagulantharan26@gmail.com
-💼 LinkedIn: Nagulantharan
-💻 LeetCode: nagulantharan26
+---
 
-🤝 Let's Build Together
-If you're looking to collaborate on exciting projects, brainstorm innovative ideas, or just talk tech — I'm always open to conversations. Let’s connect and build something meaningful together! ✨
+## GitHub Stats (Optional)
 
-⚡ Quick Facts
-🌱 Always learning and leveling up my skill set
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagulantharan26&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagulantharan26&layout=compact&theme=tokyonight)
 
-☁ Currently diving into DevOps & Cloud Fundamentals
+---
 
-📚 Sharpening problem-solving with DSA
+## Connect With Me
 
-💬 Favorite quote: "Code is like humor. When you have to explain it, it’s bad." – Cory House
+- 📧 Email: **nagulantharan26@gmail.com**
+- 💼 LinkedIn: **Nagulantharan**
+- 🧠 LeetCode: **nagulantharan26**
+
+---
+
+## Quick Facts
+
+- 🌱 Always learning and leveling up my skill set  
+- ☁️ Currently diving into **DevOps & Cloud fundamentals**  
+- 🧩 Sharpening problem-solving with **DSA**  
+- 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
+---
+
+⭐️ Feel free to explore my repositories, connect with me, or collaborate on exciting projects!
